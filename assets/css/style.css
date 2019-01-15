@@ -2,3 +2,31 @@ body {
     background-image: url("https://designdroide.com/imagesOrigin/music-headphones-word-cloud-no-background.jpg");
     background-color: #cccccc;
    }
+
+   #wins {
+       margin-left: 10px;
+   }
+
+   #numberguess {
+       margin-left: 10px;
+   }
+
+   #guessedalready {
+       margin-left: 10px;
+   }
+
+   #bandname {
+       margin-left: 10px;
+
+   }
+
+   #guessedword {
+    margin-left: 10px;
+
+   }
+
+   .directions {
+       margin-left: 10px;
+       color: red;
+       font-style: bold;
+   }
